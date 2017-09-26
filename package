@@ -1,0 +1,10 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "keys.js",
+  "dependencies": {
+    "request": "^2.74.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  },
